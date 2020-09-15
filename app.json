@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "QuickPlay",
+    "slug": "QuickPlay",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/SplashQuickPlay.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "sdkVersion": "37.0.0",
+    "description": " QuickPlay is an app that allows users to easily search through the Internet of Games Database, add games they have played or would like to play to their favorites, give them a rating, and receive personalized game recommendations based on the games the user likes."
+  }
+}
